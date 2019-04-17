@@ -4,15 +4,24 @@
   "version": "1.0.0",
   "author": "Alex Sparrow <alexsilverhawk@gmail.com>",
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.17",
+    "@fortawesome/free-solid-svg-icons": "^5.8.1",
+    "@fortawesome/react-fontawesome": "^0.1.4",
+    "array-move": "^2.1.0",
+    "axios": "^0.18.0",
     "gatsby": "^2.0.19",
     "gatsby-plugin-manifest": "^2.0.5",
     "gatsby-plugin-offline": "^2.0.5",
     "gatsby-plugin-react-helmet": "^3.0.0",
+    "lodash": "^4.17.11",
     "react": "^16.5.1",
     "react-dom": "^16.5.1",
     "react-helmet": "^5.2.0",
+    "react-modal": "^3.8.1",
     "react-redux": "^5.0.7",
-    "redux": "^4.0.1"
+    "react-sortable-hoc": "^1.8.3",
+    "redux": "^4.0.1",
+    "redux-logger": "^3.0.6"
   },
   "keywords": [
     "gatsby",

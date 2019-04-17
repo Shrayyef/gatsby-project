@@ -3,6 +3,7 @@
  *
  * See: https://www.gatsbyjs.org/docs/browser-apis/
  */
+import './src/styles/global.css'
 
-import wrapWithProvider from "./wrap-with-provider"
+import wrapWithProvider from './wrap-with-provider'
 export const wrapRootElement = wrapWithProvider
